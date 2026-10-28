@@ -163,7 +163,13 @@ After a race, you can also tap REPORT A PLAYER on the results screen.
 Racing Royale is for players aged **13 and over**.
 It is not made for children under 13.
 The first time you play, the game asks your birth year and month.
-It keeps only whether you are under 18.
+It keeps only whether you are under 13, or under 18.
+
+**Players under 13 stay offline:**
+
+- they can race bots in practice;
+- the game makes no online account for them;
+- there are no online or Wi-Fi rooms and no voice chat.
 
 **Players under 18 get a safe mode:**
 

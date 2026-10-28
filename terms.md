@@ -25,6 +25,7 @@ Our [privacy policy](privacy.html) explains what data the game uses.
 ## 1. Who can play
 
 - Racing Royale is for players aged 13 and over.
+- Under 13? The game stays offline: you can race bots in practice.
 - Under 18? Ask a parent or guardian before you play online.
 - Players under 18 get a safe mode. The privacy policy explains it.
 
