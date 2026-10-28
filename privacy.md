@@ -11,7 +11,7 @@ _Last updated: 28 October 2026_
 This policy explains what data the mobile game **Racing Royale** ("the game") collects,
 why, where it goes, how long we keep it, and what you can do about it.
 
-**Who we are.** The game is made by ICanSolo Studios, an independent game developer in
+**Who we are.** The game is made by IcanSolo Studios, an independent game developer in
 India ("we", "us"). We decide how your data
 is used (we are the "controller" under the GDPR and the "Data Fiduciary" under India's Digital
 Personal Data Protection Act, 2023). Contact: racingroyale.support@gmail.com.
@@ -122,7 +122,7 @@ other countries under their own safeguards (such as the EU Standard Contractual 
 
 ## 6. Grievances and contact
 
-Grievance officer: the ICanSolo Studios privacy contact, racingroyale.support@gmail.com.
+Grievance officer: the IcanSolo Studios privacy contact, racingroyale.support@gmail.com.
 Complaints about the game, other players' behaviour or your data are **acknowledged at once**
 (in the game, Settings > About > Report a problem shows a reference number straight away;
 by email we acknowledge within 24 hours) and **resolved within 15 days**. You can also
