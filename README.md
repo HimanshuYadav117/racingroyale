@@ -1,3 +1,3 @@
-# Racing Royale
+# Moved
 
-The public site of the Racing Royale mobile game (IcanSolo Studios): privacy policy, terms and community rules, and account deletion.
+The Racing Royale site now lives at https://icansolostudios.github.io/racingroyale/ (repository IcanSoloStudios/racingroyale). These pages only forward visitors there.
